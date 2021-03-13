@@ -6,6 +6,7 @@ import java.net.*;
 package com.multicoinexchange.database;
 package com.multicoinexchange.firewall;
 package com.multicoinexchange.internet;
+package com.multicoinexchange.thread;
 package com.multicoinexchange.wallet;
 
 
