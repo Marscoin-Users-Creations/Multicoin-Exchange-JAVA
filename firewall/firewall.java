@@ -12,6 +12,10 @@
 
 public class firewall {
     
-    
+    public static void Firewall(String[] args) {
+        
+        
+        
+    };
     
 };
