@@ -3,11 +3,11 @@
 import java.lang.Thread;
 import java.net.*;
 
-package com.multicoinexchange.database;
-package com.multicoinexchange.firewall;
-package com.multicoinexchange.internet;
-package com.multicoinexchange.thread;
-package com.multicoinexchange.wallet;
+import com.multicoinexchange.database.*;
+import com.multicoinexchange.firewall.*;
+import com.multicoinexchange.internet.*;
+import com.multicoinexchange.thread.*;
+import com.multicoinexchange.wallet.*;
 
 
 // main vars
