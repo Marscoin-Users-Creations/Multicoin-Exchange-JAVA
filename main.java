@@ -22,7 +22,7 @@ public class vars {
         int bitcoinCashInternetPort = 0;
         int litecoinInternetAddress = "127.0.0.1";
         int litecoinInternetPort = 0;
-        int litecoinCashInternetAddress = 127.0.0.1";
+        int litecoinCashInternetAddress = "127.0.0.1";
         int litecoinCashInternetPort = 0;
         int marscoinInternetAddress = "127.0.0.1";
         int marscoinInternetPort = 0;
