@@ -22,6 +22,8 @@ public class vars {
         int bitcoinCashInternetPort = 0;
         int litecoinInternetAddress = "127.0.0.1";
         int litecoinInternetPort = 0;
+        int litecoinCashInternetAddress = 127.0.0.1";
+        int litecoinCashInternetPort = 0;
         int marscoinInternetAddress = "127.0.0.1";
         int marscoinInternetPort = 0;
         
@@ -36,10 +38,11 @@ public class main {
     
     public static void internet(String[] args) {
         
-        Socket bitcoinInternetSocket = new Socket(InetAddress vars.internetVars.bitcoinInternetAddress, int vars.internetVars.bitcoinInternetPort);
-        Socket bitcoinCashInternetSocket = new Socket(InetAddress vars.internetVars.bitcoinCashInternetAddress int vars.internetVars.bitcoinCashInternetPort);
-        Socket litecoinInternetSocket = new Socket(InetAddress vars.internetVars.litecoinInternetAddress, int vars.internetVars.litecoinInternetPort);
-        Socket marscoinInternetSocket = new Socket(InetAddress vars.internetVars.marscoinInternetAddress, int vars.internetVars.marscoinInternetPort);
+        Socket bitcoinInternetSocket = new socket(InetAddress vars.internetVars.bitcoinInternetAddress, int vars.internetVars.bitcoinInternetPort);
+        Socket bitcoinCashInternetSocket = new socket(InetAddress vars.internetVars.bitcoinCashInternetAddress int vars.internetVars.bitcoinCashInternetPort);
+        Socket litecoinInternetSocket = new socket(InetAddress vars.internetVars.litecoinInternetAddress, int vars.internetVars.litecoinInternetPort);
+        Socket litecoinCashInternetSocket = new socket(InetAddress vars.internetVars.litecoinCashInternetAddress, int vars.internetVars.litecoinCashInternetPort);
+        Socket marscoinInternetSocket = new socket(InetAddress vars.internetVars.marscoinInternetAddress, int vars.internetVars.marscoinInternetPort);
         
     };
     public static void Main(String[] args) {
