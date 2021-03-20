@@ -3,7 +3,7 @@
 import java.lang.Thread;
 import java.net.*;
 
-packae com.multicoinexchange;
+package com.multicoinexchange;
 
 import com.multicoinexchange.database.*;
 import com.multicoinexchange.firewall.*;
