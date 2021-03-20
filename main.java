@@ -1,15 +1,16 @@
 // default imports
 
+import java.io.*;
 import java.lang.Thread;
 import java.net.*;
 
 package com.multicoinexchange;
 
-import com.multicoinexchange.database.*;
-import com.multicoinexchange.firewall.*;
-import com.multicoinexchange.internet.*;
-import com.multicoinexchange.thread.*;
-import com.multicoinexchange.wallet.*;
+import com.multicoinexchange.database;
+import com.multicoinexchange.firewall;
+import com.multicoinexchange.internet;
+import com.multicoinexchange.thread;
+import com.multicoinexchange.wallet;
 
 
 // main vars
